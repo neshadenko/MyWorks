@@ -3,7 +3,7 @@
 		background: #eeeeee;  
 		margin: 0.2% 2% 4% 31%;	
 }
-	div{
+	.main{
 		box-shadow: 0px 0px 1px 0px rgba(50, 50, 50, 0.75);
 		background: white;  
 		margin: 0% 0% 0% 0%; 
@@ -11,6 +11,7 @@
 		-webkit-box-shadow: 1px -1px 96px -20px rgba(0,0,0,0.74);
 		-moz-box-shadow: 1px -1px 96px -20px rgba(0,0,0,0.74);
 		box-shadow: 1px -1px 96px -20px rgba(0,0,0,0.74);
+		
     }
     h1{
     	font-size: 100%;  text-align: center;                         
@@ -33,3 +34,9 @@
 	border-bottom: 4px solid black;
 	padding: 0% 0% 2% 0%;
 	}
+	.nachalo,.seredina,.konec
+	{
+		border-bottom: 2px solid gray;
+		padding-bottom: 10px;
+	}
+	
